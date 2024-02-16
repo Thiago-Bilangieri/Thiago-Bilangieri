@@ -43,12 +43,6 @@ class AboutMe () {
 <h1>
 </h1>
 
-## **GitHub Estatísticas**
-
-[![Thiago Bilangieri](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Bilangieri&hide=html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1>
-	</h1>
 
 
 
