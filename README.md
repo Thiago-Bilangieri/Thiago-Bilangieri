@@ -42,14 +42,14 @@ class AboutMe () {
 </h1>
 
 
-#### Rede Sociais!
+#### Redes Sociais!
 
 [![Linkedin:Thiago Bilangieri](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/thiagobilangieri/)
 [![Instagram: Thiago Bilangieri ](https://img.shields.io/badge/-Thiago-DF0174?style=flat-square&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](https://www.instagram.com/thiagobilan/)
 
 
 
-###
+***
 
 I am passionate about programming and technology, always seeking new ways to apply my knowledge to solve problems and create innovative solutions. From an early age, I developed a fascination with understanding how things work "behind the scenes," which led me to dive into the world of programming and software engineering. I have dedicated my studies to various programming languages and am constantly improving my knowledge in areas such as mobile development, data science, and backend programming. My goal is not only to keep up with technological trends but also to contribute to them by applying what I learn to practical and impactful projects.
 
