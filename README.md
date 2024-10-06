@@ -42,8 +42,6 @@ class AboutMe () {
 </h1>
 
 
-
-
 #### Rede Sociais!
 
 [![Linkedin:Thiago Bilangieri](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/thiagobilangieri/)
@@ -51,6 +49,15 @@ class AboutMe () {
 
 
 
+###
+
+I am passionate about programming and technology, always seeking new ways to apply my knowledge to solve problems and create innovative solutions. From an early age, I developed a fascination with understanding how things work "behind the scenes," which led me to dive into the world of programming and software engineering. I have dedicated my studies to various programming languages and am constantly improving my knowledge in areas such as mobile development, data science, and backend programming. My goal is not only to keep up with technological trends but also to contribute to them by applying what I learn to practical and impactful projects.
+
+I love working in dynamic and collaborative environments where I can learn from others and also share my knowledge. I believe that technology has the power to transform the world, and I am committed to using my skills to make a positive impact. I am always looking for new challenges that allow me to grow and continue my journey as a developer and technology enthusiast.
+
+Sou apaixonado por programação e tecnologia, sempre em busca de novas formas de aplicar meus conhecimentos para resolver problemas e criar soluções inovadoras. Desde cedo, desenvolvi um fascínio por entender como as coisas funcionam "nos bastidores", o que me levou a mergulhar no mundo da programação e da engenharia de software. Tenho me dedicado ao estudo de diversas linguagens de programação e estou constantemente aprimorando meus conhecimentos em áreas como desenvolvimento mobile, ciência de dados e programação backend. Meu objetivo não é apenas acompanhar as tendências tecnológicas, mas também contribuir para elas, aplicando o que aprendo em projetos práticos e impactantes.
+
+Adoro trabalhar em ambientes dinâmicos e colaborativos, onde posso aprender com os outros e também compartilhar meu conhecimento. Acredito que a tecnologia tem o poder de transformar o mundo, e estou comprometido em usar minhas habilidades para gerar um impacto positivo. Estou sempre em busca de novos desafios que me permitam crescer e continuar minha jornada como desenvolvedor e entusiasta da tecnologia.
 
 
 
