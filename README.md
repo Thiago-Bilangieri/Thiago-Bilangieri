@@ -1,66 +1,36 @@
-<h1 align="center">
-	🚀📱 Welcome to my GitHub 📱🚀
-</h1>
+# Olá, sou o Thiago 👋
 
-```dart 
-class AboutMe () {
+**Desenvolvedor full-stack** em Braga, Portugal 🇵🇹. Construo APIs com **Java e Spring Boot**, interfaces web com **Angular** e apps com **Flutter**. Também desenvolvo aplicações desktop em **C#/.NET**.
 
+Gosto de software que se comporta bem em produção: regras de negócio testadas, deploy automatizado e documentação que alguém consegue seguir.
 
- String name = "Thiago Bilangieri";
- String acknowledgements = " Mobile Developer 📱 ";
- String myLocation = " Braga/Portugal ";
- 
- final List<String> languages  = [
-    "Dart", 
-    "Flutter", 
-    "Clean Code", 
-    "FireBase",
-    "MongoDB",
-    "Java",
- ];
+<sub>🇬🇧 Full-stack developer based in Braga, Portugal. Java/Spring Boot APIs, Angular front-ends, Flutter apps and C#/.NET desktop tools. Most READMEs are available in English.</sub>
 
-}
-```
+---
 
-## **Linguagens e Ferramentas:**  
+### 🚀 Projetos em destaque
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[Agendamento API](https://github.com/Thiago-Bilangieri/agendamentos)** · [demo](https://agendamento-api-y1dg.onrender.com/swagger-ui.html) | API de marcação de serviços com três perfis, aprovação de profissionais e prevenção de conflitos de horário mesmo com pedidos simultâneos. | Java 21 · Spring Boot · PostgreSQL · JWT · Testcontainers · Docker · GitHub Actions |
+| **[MarcaJá](https://github.com/Thiago-Bilangieri/marcaja)** | Front-end da Agendamento API: clientes marcam serviços, profissionais gerem a agenda e o admin aprova contas. Interface em pt-PT e inglês. | Angular · TypeScript · Angular Material |
+| **[FABv Tracker](https://github.com/Thiago-Bilangieri/FABvTracker-releases)** | ACARS em uso pela comunidade FAB Virtual: rastreia o voo no MSFS ou X-Plane, mostra a aeronave no mapa e envia o relatório de voo para o site. Instalador com atualização automática. | C# · .NET · WebView2 |
+| **[CineBox](https://github.com/Thiago-Bilangieri/Cinebox)** | App de filmes com login Google, listagem e busca por gênero. | Flutter · Riverpod · Dio · Clean Architecture |
 
-<h1>
-</h1>
+---
 
+### 🛠️ Stack
 
-#### Redes Sociais!
+**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-[![Linkedin:Thiago Bilangieri](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/thiagobilangieri/)
-[![Instagram: Thiago Bilangieri ](https://img.shields.io/badge/-Thiago-DF0174?style=flat-square&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](https://www.instagram.com/thiagobilan/)
+**Frontend e mobile:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
+**Desktop:** ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+**DevOps e ferramentas:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-***
+---
 
-I am passionate about programming and technology, always seeking new ways to apply my knowledge to solve problems and create innovative solutions. From an early age, I developed a fascination with understanding how things work "behind the scenes," which led me to dive into the world of programming and software engineering. I have dedicated my studies to various programming languages and am constantly improving my knowledge in areas such as mobile development, data science, and backend programming. My goal is not only to keep up with technological trends but also to contribute to them by applying what I learn to practical and impactful projects.
+### 📫 Contato
 
-I love working in dynamic and collaborative environments where I can learn from others and also share my knowledge. I believe that technology has the power to transform the world, and I am committed to using my skills to make a positive impact. I am always looking for new challenges that allow me to grow and continue my journey as a developer and technology enthusiast.
-
-Sou apaixonado por programação e tecnologia, sempre em busca de novas formas de aplicar meus conhecimentos para resolver problemas e criar soluções inovadoras. Desde cedo, desenvolvi um fascínio por entender como as coisas funcionam "nos bastidores", o que me levou a mergulhar no mundo da programação e da engenharia de software. Tenho me dedicado ao estudo de diversas linguagens de programação e estou constantemente aprimorando meus conhecimentos em áreas como desenvolvimento mobile, ciência de dados e programação backend. Meu objetivo não é apenas acompanhar as tendências tecnológicas, mas também contribuir para elas, aplicando o que aprendo em projetos práticos e impactantes.
-
-Adoro trabalhar em ambientes dinâmicos e colaborativos, onde posso aprender com os outros e também compartilhar meu conhecimento. Acredito que a tecnologia tem o poder de transformar o mundo, e estou comprometido em usar minhas habilidades para gerar um impacto positivo. Estou sempre em busca de novos desafios que me permitam crescer e continuar minha jornada como desenvolvedor e entusiasta da tecnologia.
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thiagobilangieri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagobilangieri/)
